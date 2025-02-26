@@ -51,5 +51,5 @@ Experiment with different similarity metrics.
 Implement a web app for visualization.
 Contributors
 
-Niloy Biswas
+Niloy Biswas /n
 Feel free to contribute! Fork & submit a pull request 🚀
