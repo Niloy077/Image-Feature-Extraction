@@ -52,5 +52,5 @@ Implement a web app for visualization.
 Contributors
 
 ## Contributors  
-✍️ Niloy Biswas  
+✍️ Niloy Biswas  (aiming to finish in this month)
 Feel free to contribute! Fork & submit a pull request 🚀  
